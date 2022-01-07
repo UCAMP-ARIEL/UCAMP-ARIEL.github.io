@@ -1,0 +1,57 @@
+* {
+	box-sizing: border-box;
+	margin: 0px;
+}
+.jumbo {
+	display: flex;
+
+	background-color: darkblue;
+}
+/* @media screen and (max-width: 500px) {
+	.jumbo {
+		flex-direction: column;
+	}
+} */
+
+img {
+	width: 700px;
+}
+h5 {
+	display: inline-block;
+	padding: 10px 20px;
+	border-radius: 20px;
+	font-size: 20px;
+	background-color: black;
+	color: white;
+}
+h1 {
+	font-size: 70px;
+	color: white;
+}
+p {
+	font-size: 20px;
+
+	color: white;
+	margin: 40px 20px;
+}
+.left {
+	padding: 30px;
+	width: 600px;
+}
+.mail {
+	display: flex;
+	justify-content: center;
+}
+.mail input {
+	padding: 10px;
+	font-size: 18px;
+	width: 300px;
+	margin-right: 10px;
+}
+.mail button {
+	padding: 10px;
+	font-size: 18px;
+	background-color: green;
+	color: white;
+	border-radius: 10px;
+}
