@@ -1,0 +1,15 @@
+h1{
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 48px;
+  color:blueviolet
+}
+div{
+  display: grid;
+  place-items: center;
+}
+p{
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bold;
+  width: 60%;
+
+}
