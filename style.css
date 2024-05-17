@@ -10,6 +10,8 @@ div{
 p{
   font-family: 'Courier New', Courier, monospace;
   font-weight: bold;
+  font-size: 24px;
+  color:green;
   width: 60%;
 
 }
